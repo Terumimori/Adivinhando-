@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(90deg , rgb(188, 184, 168) 10%, rgb(159, 144, 103) , rgb(194, 162, 34));
+}
+
+div#bloco{
+    margin: auto;
+    height: 200px;
+    background-color: rgb(183, 219, 89);
+    width: 200px;
+    text-align: center;
+    line-height: 150px
+    
+
+}
+header{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: white;
+
+
+    }
+
+ div#fra{
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+ }   
+
+ .caixa{
+    
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .confirmar{
+    position: absolute;
+    top: 45%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+ }
+
+ div#res{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    color: white;
+    font-size: large;
+
+ }
